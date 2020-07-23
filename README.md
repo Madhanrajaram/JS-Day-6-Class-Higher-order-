@@ -1,0 +1,1 @@
+# JS-Day-6-Class-Higher-order-
